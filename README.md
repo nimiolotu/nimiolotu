@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nimiolotu
-- 👀 I’m interested in School Management System for University
+- 👀 I’m interested in Developing School Management System, Hosptal Management System for Medical University
 - 🌱 I’m currently learning how to build applications
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me +2348060644536
